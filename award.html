@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<canvas id="canvas" width="600" height="600"></canvas>
+<script>
+    var radius = 211,
+        outsideRadius = 180,
+        insideRadius = radius - 180;
+
+    var prize_count = 8;
+        unit_arc = 2*Math.PI/prize_count;
+
+    var canvas = document.getElementById('canvas');
+    var ctx = canvas.getContext('2d');
+    ctx.clearRect(0, 0, 2*radius, 2*radius);
+    //strokeStyle 属性设置或返回用于笔触的颜色、渐变或模式
+    ctx.strokeStyle = "#FFBE04";
+
+    for (var i = 0; i < 1; i++) {
+        var cur_arc = i * unit_arc;
+        ctx.fillStyle = (i%2 === 0) ? '#FFBE04' : '#fff';
+        ctx.beginPath();
+        ctx.arc(211, 211, outsideRadius, cur_arc + unit_arc, cur_arc, true);
+        ctx.arc(211, 211, insideRadius, cur_arc, cur_arc + unit_arc, false);
+        ctx.stroke();
+        ctx.fill();
+        ctx.save();
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="3f1d25e3-d205-423d-9fa8-123683c452a7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/award.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/placeholder.js" />
+    </list>
+    <ignored path="form.verify.js.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="form.verify.js" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="placeholder.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/placeholder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-30.066668">
+              <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdValidate.emReg.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdValidate.emReg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdValidate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdValidate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.5591397">
+              <caret line="374" column="23" selection-start-line="374" selection-start-column="23" selection-end-line="374" selection-end-column="23" />
+              <folding>
+                <marker date="1448087240123" expanded="true" signature="21738:21748" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdValidate.regSuccess.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdValidate.regSuccess.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.533334">
+              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              <folding>
+                <marker date="1448087231312" expanded="true" signature="3374:3384" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html5Validate/test/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.1607144">
+              <caret line="122" column="36" selection-start-line="122" selection-start-column="36" selection-end-line="122" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-html5Validate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html5Validate/src/jquery-html5Validate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.533334">
+              <caret line="208" column="111" selection-start-line="208" selection-start-column="111" selection-end-line="208" selection-end-column="111" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="awardRotate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/award14/js/awardRotate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="42.533333">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/award14/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.6638656">
+              <caret line="144" column="31" selection-start-line="144" selection-start-column="31" selection-end-line="144" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="award.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/award.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29300568">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/form.verify.js" />
+        <option value="$PROJECT_DIR$/placeholder.js" />
+        <option value="$PROJECT_DIR$/adard.html" />
+        <option value="$PROJECT_DIR$/award.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="form.verify.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="form.verify.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="form.verify.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.award.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/form.verify.js/html5Validate/test/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="award.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/form.verify.js/award.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.award.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.award.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f1d25e3-d205-423d-9fa8-123683c452a7" name="Default" comment="" />
+      <created>1448070753049</created>
+      <option name="number" value="Default" />
+      <updated>1448070753049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25320512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/form.verify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/验证.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3296#5542#0" expanded="false" />
+            <element signature="e#5564#10331#0" expanded="false" />
+            <element signature="e#13020#14930#0" expanded="false" />
+            <element signature="e#14961#16589#0" expanded="false" />
+            <element signature="n#!!block;n#checkPin#0" expanded="false" />
+            <element signature="n#!!block;n#selectMe#0" expanded="false" />
+            <element signature="n#!!block;n#sendMobileCode#0" expanded="false" />
+            <element signature="n#!!block;n#sendmCode#0" expanded="false" />
+            <element signature="n#!!block;n#sendmCode1#0" expanded="false" />
+            <element signature="n#!!block;n#sendMobileCode1#0" expanded="false" />
+            <element signature="n#!!block;n#sendRegMail#0" expanded="false" />
+            <element signature="n#!!block;n#emailEngagedStyle#0" expanded="false" />
+            <element signature="n#!!block;n#emailFormatErrorStyle#0" expanded="false" />
+            <element signature="n#!!block;n#mobileReg#0" expanded="false" />
+            <element signature="n#!!block;n#mobileCodeError#0" expanded="false" />
+            <element signature="n#!!block;n#mobileCodeHide#0" expanded="false" />
+            <element signature="n#!!block;n#countDown#0" expanded="false" />
+            <element signature="n#!!block;n#countDown1#0" expanded="false" />
+            <element signature="n#!!block;n#strTrim#0" expanded="false" />
+            <element signature="e#46232#46856#0" expanded="false" />
+            <element signature="n#!!block;n#showHideProtocol#0" expanded="false" />
+            <element signature="n#!!block;n#validateRegName#0" expanded="false" />
+            <element signature="e#47495#47597#0" expanded="false" />
+            <element signature="e#47614#47719#0" expanded="false" />
+            <element signature="e#47758#47803#0" expanded="false" />
+            <element signature="e#47820#47869#0" expanded="false" />
+            <element signature="n#!!block;n#phoneKeyup#0" expanded="false" />
+            <element signature="n#!!block;n#authCodeBlur#0" expanded="false" />
+            <element signature="n#!!block;n#phoneOtherBlur#0" expanded="false" />
+            <element signature="n#!!block;n#phoneOtherKeyup#0" expanded="false" />
+            <element signature="n#!!block;n#showMobileCheckResult#0" expanded="false" />
+            <element signature="n#!!block;n#mobileOkStyle#0" expanded="false" />
+            <element signature="n#!!block;n#mobileBindedStyle#0" expanded="false" />
+            <element signature="n#!!block;n#mobileEngagedStyle#0" expanded="false" />
+            <element signature="n#!!block;n#showMobileCheckResult1#0" expanded="false" />
+            <element signature="n#!!block;n#mobileOkStyle1#0" expanded="false" />
+            <element signature="n#!!block;n#mobileBindedStyle1#0" expanded="false" />
+            <element signature="n#!!block;n#mobileEngagedStyle1#0" expanded="false" />
+            <element signature="n#!!block;n#phone1Blur#0" expanded="false" />
+            <element signature="n#!!block;n#phone1Keyup#0" expanded="false" />
+            <element signature="n#!!block;n#mobileCodeFocus#0" expanded="false" />
+            <element signature="n#!!block;n#mobileCode1Blur#0" expanded="false" />
+            <element signature="n#!!block;n#unbind#0" expanded="false" />
+            <element signature="n#!!block;n#unbind1#0" expanded="false" />
+            <element signature="e#67739#76226#0" expanded="false" />
+            <element signature="e#67767#76218#0" expanded="false" />
+            <marker date="1447827022145" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form.verify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.709677">
+          <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/验证.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.892473">
+          <caret line="234" column="20" selection-start-line="234" selection-start-column="4" selection-end-line="234" selection-end-column="20" />
+          <folding>
+            <element signature="e#3296#5542#0" expanded="false" />
+            <element signature="e#5564#10331#0" expanded="false" />
+            <element signature="e#13020#14930#0" expanded="false" />
+            <element signature="e#14961#16589#0" expanded="false" />
+            <element signature="n#!!block;n#checkPin#0" expanded="false" />
+            <element signature="n#!!block;n#selectMe#0" expanded="false" />
+            <element signature="n#!!block;n#sendMobileCode#0" expanded="false" />
+            <element signature="n#!!block;n#sendmCode#0" expanded="false" />
+            <element signature="n#!!block;n#sendmCode1#0" expanded="false" />
+            <element signature="n#!!block;n#sendMobileCode1#0" expanded="false" />
+            <element signature="n#!!block;n#sendRegMail#0" expanded="false" />
+            <element signature="n#!!block;n#emailEngagedStyle#0" expanded="false" />
+            <element signature="n#!!block;n#emailFormatErrorStyle#0" expanded="false" />
+            <element signature="n#!!block;n#mobileReg#0" expanded="false" />
+            <element signature="n#!!block;n#mobileCodeError#0" expanded="false" />
+            <element signature="n#!!block;n#mobileCodeHide#0" expanded="false" />
+            <element signature="n#!!block;n#countDown#0" expanded="false" />
+            <element signature="n#!!block;n#countDown1#0" expanded="false" />
+            <element signature="n#!!block;n#strTrim#0" expanded="false" />
+            <element signature="e#46232#46856#0" expanded="false" />
+            <element signature="n#!!block;n#showHideProtocol#0" expanded="false" />
+            <element signature="n#!!block;n#validateRegName#0" expanded="false" />
+            <element signature="e#47495#47597#0" expanded="false" />
+            <element signature="e#47614#47719#0" expanded="false" />
+            <element signature="e#47758#47803#0" expanded="false" />
+            <element signature="e#47820#47869#0" expanded="false" />
+            <element signature="n#!!block;n#phoneKeyup#0" expanded="false" />
+            <element signature="n#!!block;n#authCodeBlur#0" expanded="false" />
+            <element signature="n#!!block;n#phoneOtherBlur#0" expanded="false" />
+            <element signature="n#!!block;n#phoneOtherKeyup#0" expanded="false" />
+            <element signature="n#!!block;n#showMobileCheckResult#0" expanded="false" />
+            <element signature="n#!!block;n#mobileOkStyle#0" expanded="false" />
+            <element signature="n#!!block;n#mobileBindedStyle#0" expanded="false" />
+            <element signature="n#!!block;n#mobileEngagedStyle#0" expanded="false" />
+            <element signature="n#!!block;n#showMobileCheckResult1#0" expanded="false" />
+            <element signature="n#!!block;n#mobileOkStyle1#0" expanded="false" />
+            <element signature="n#!!block;n#mobileBindedStyle1#0" expanded="false" />
+            <element signature="n#!!block;n#mobileEngagedStyle1#0" expanded="false" />
+            <element signature="n#!!block;n#phone1Blur#0" expanded="false" />
+            <element signature="n#!!block;n#phone1Keyup#0" expanded="false" />
+            <element signature="n#!!block;n#mobileCodeFocus#0" expanded="false" />
+            <element signature="n#!!block;n#mobileCode1Blur#0" expanded="false" />
+            <element signature="n#!!block;n#unbind#0" expanded="false" />
+            <element signature="n#!!block;n#unbind1#0" expanded="false" />
+            <element signature="e#67739#76226#0" expanded="false" />
+            <element signature="e#67767#76218#0" expanded="false" />
+            <marker date="1447827022145" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placeholder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.066668">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdValidate.emReg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdValidate.regSuccess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.533334">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1448087231312" expanded="true" signature="3374:3384" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5591397">
+          <caret line="374" column="23" selection-start-line="374" selection-start-column="23" selection-end-line="374" selection-end-column="23" />
+          <folding>
+            <marker date="1448087240123" expanded="true" signature="21738:21748" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5Validate/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1607144">
+          <caret line="122" column="36" selection-start-line="122" selection-start-column="36" selection-end-line="122" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5Validate/src/jquery-html5Validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.533334">
+          <caret line="208" column="111" selection-start-line="208" selection-start-column="111" selection-end-line="208" selection-end-column="111" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/award14/js/awardRotate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="42.533333">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5Validate/test/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49714285">
+          <caret line="4" column="29152" selection-start-line="4" selection-start-column="29152" selection-end-line="4" selection-end-column="29152" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/award14/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6638656">
+          <caret line="144" column="31" selection-start-line="144" selection-start-column="31" selection-end-line="144" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/award.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29300568">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
